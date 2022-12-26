@@ -1,6 +1,6 @@
 Peer Pix
 
-https://dinsta.vercel.app/ 
+https://peerpix.vercel.app/ 
 
 Peer Pix is a decentralized Instagram clone built on Ethereum. It is a simple dApp that allows users to upload images to the blockchain and view them on the front-end.
 
