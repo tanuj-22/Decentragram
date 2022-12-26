@@ -9,7 +9,7 @@ class Navbar extends Component {
         <div class="navigation">
           <div class="logo">
             <a class="no-underline" href={window.location.origin}>
-              Peer Pix
+              PeerPix
             </a>
           </div>
 
