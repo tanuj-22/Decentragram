@@ -1,8 +1,8 @@
-Decentragram
+Peer Pix
 
 https://dinsta.vercel.app/ 
 
-Decentragram is a decentralized Instagram clone built on Ethereum. It is a simple dApp that allows users to upload images to the blockchain and view them on the front-end.
+Peer Pix is a decentralized Instagram clone built on Ethereum. It is a simple dApp that allows users to upload images to the blockchain and view them on the front-end.
 
 The dApp is built using the Truffle framework and React.js. The front-end is built using React.js and the back-end is built using Solidity.
 
@@ -61,19 +61,19 @@ npm run start
 
 Deployed Contracts
 
-The Decentragram dApp is deployed on the Goerli testnet. The contract addresses are as follows:
+The Peer Pix dApp is deployed on the Goerli testnet. The contract addresses are as follows:
 
 
 ```shell
 Network: goerli (id: 5)
 
-Decentragram : 0xC70cdaF1945dd547407A5961118679be5A41f3D5
+Peer Pix : 0xC70cdaF1945dd547407A5961118679be5A41f3D5
 
 Migrations : 0xa784554Fc1B3875AF8CB6bbbeAb0a4503bEF5aCa
 ```
 
 <!-- OLD CONTRACTS -->
-<!-- # Decentragram: 0xF71D30cb0d73D15177a585C9fB073cf07f62Cf11 -->
+<!-- # Peer Pix: 0xF71D30cb0d73D15177a585C9fB073cf07f62Cf11 -->
 <!-- # Migrations: 0xD74c85d3286034192904DC6B553654AAAb31ef60 -->
 
 
